@@ -22,6 +22,7 @@ enough time to tune the models for the larger dataset.
 
 Languages used:
 1) Python </br>
+
 Libraries Used:
 1) Keras - Deep Learning
 2) Gensim word2vec - Generating word embeddings of the text data
