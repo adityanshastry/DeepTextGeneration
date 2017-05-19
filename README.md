@@ -19,3 +19,10 @@ in terms of the number of sentences generated, the perplexity was quite high com
 some datasets with a higher vocaulary and sentence lengths. We chose the Europarl dataset (http://www.statmt.org/europarl/) for
 this task. With the same model configurations for the bAbI dataset, we didnt get good results. Unfortunately, we didnt have 
 enough time to tune the models for the larger dataset. 
+
+Languages used:
+1) Python
+Libraries Used:
+1) Keras - Deep Learning
+2) Gensim word2vec - Generating word embeddings of the text data
+3) Numpy - Matrix operations, and distance measurements
